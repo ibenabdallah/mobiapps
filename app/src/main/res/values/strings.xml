@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobiApps</string>
+
+    <string name="player_birth">Birth : %s</string>
+    <string name="player_signed">Signed : %s</string>
+    <string name="player_price">Price : %s</string>
+</resources>
